@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gRPCplan/اخر بحث للخطه.md",
+                "file": "برمجه/Go/خطه المشروع/تصميم جدول تسجيل الوكلاء (agents).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "اخر بحث للخطه"
+              "title": "تصميم جدول تسجيل الوكلاء (agents)"
             }
           }
         ],
@@ -167,23 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gRPCplan/اخر بحث للخطه.md",
+                "file": "برمجه/Go/خطه المشروع/تصميم جدول تسجيل الوكلاء (agents).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "الخطوط العريضة لـ اخر بحث للخطه"
-            }
-          },
-          {
-            "id": "6300ee2a722aafa8",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "title": "الخطوط العريضة لـ تصميم جدول تسجيل الوكلاء (agents)"
             }
           },
           {
@@ -194,6 +184,16 @@
               "state": {},
               "icon": "bot-message-square",
               "title": "Copilot Chat"
+            }
+          },
+          {
+            "id": "adc2691c2983fb28",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
         ],
@@ -213,16 +213,17 @@
       "templates:إدراج قالب": false,
       "command-palette:فتح لوحة الأوامر": false,
       "markdown-importer:فتح مستورد Markdown": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "c2de5062914d38a0",
+  "active": "2ea770458f466eec",
   "lastOpenFiles": [
-    "gRPCplan/تلقائي من TLS/auth_interceptor.go.md",
+    "gRPCplan/تلقائي من TLS/جدول قواعد جدار الحماية الأساسية.md",
     "gRPCplan/Application-Level Firewall جدار حماية برمجي.md",
     "gRPCplan/اخر بحث للخطه.md",
-    "gRPCplan/تلقائي من TLS/جدول قواعد جدار الحماية الأساسية.md",
-    "gRPCplan/تصميم جدول تسجيل الوكلاء (agents).md",
+    "gRPCplan/تلقائي من TLS/auth_interceptor.go.md",
+    "برمجه/Go/خطه المشروع/تصميم جدول تسجيل الوكلاء (agents).md",
     "gRPCplan/Registration  grpcلتسجيل جهاز جديد في المنصة.md",
     "gRPCplan/firewall.md",
     "gRPCplan/تلقائي من TLS/Keepalive.md",

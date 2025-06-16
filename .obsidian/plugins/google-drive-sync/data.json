@@ -2,7 +2,7 @@
   "refreshToken": "1//05r1FAKTT1tvgCgYIARAAGAUSNwF-L9IrPzh63ahGjn5FucXaS8y_eBdoh1SkLRGrr_OJg_hOy5PeSZKNxC3GQYupdjDIelUbe0s",
   "operations": {
     "gRPCplan/اخر بحث للخطه.md": "modify",
-    "gRPCplan/تصميم جدول تسجيل الوكلاء (agents).md": "modify",
+    "gRPCplan/تصميم جدول تسجيل الوكلاء (agents).md": "delete",
     "روابط تحتاج عمق/تلقائي من TLS/جدول قواعد جدار الحماية الأساسية.md": "delete",
     "روابط تحتاج عمق/تلقائي من TLS/auth_interceptor.go.md": "delete",
     "gRPCplan/Application-Level Firewall جدار حماية برمجي.md": "modify",
@@ -15,7 +15,8 @@
     "gRPCplan/تلقائي من TLS/بدون عنوان.md": "create",
     "روابط تحتاج عمق/تلقائي من TLS/Keepalive.md": "delete",
     "gRPCplan/تلقائي من TLS/Keepalive.md": "create",
-    "gRPCplan/تلقائي من TLS/جدول قواعد جدار الحماية الأساسية.md": "create"
+    "gRPCplan/تلقائي من TLS/جدول قواعد جدار الحماية الأساسية.md": "create",
+    "برمجه/Go/خطه المشروع/تصميم جدول تسجيل الوكلاء (agents).md": "create"
   },
   "driveIdToPath": {
     "1MRr639jSOdrYEbMGCl9I7mUnb2-O_ucJ": "خطه المشروع grpc",
