@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "621697c4b67699b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a448006e9d3834d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0f83e6ee538c198",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gRPCplan/Application-Level Firewall جدار حماية برمجي.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": true,
+                  "extraContext": true,
+                  "sortOrder": "alphabetical",
+                  "showSearch": true,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": false
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Application-Level Firewall جدار حماية برمجي"
+            }
+          },
+          {
+            "id": "13fdf7daa7897c97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gRPCplan/اخر بحث للخطه.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "اخر بحث للخطه"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "602e7f276dc6a598",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cfa5f1406e4ca5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ea770458f466eec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "مستكشف الملفات"
+            }
+          },
+          {
+            "id": "d46e6f44ae63952a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "البحث"
+            }
+          },
+          {
+            "id": "2fd61fa900dfb405",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "الإشارات المرجعية"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ed9ec795a9f0113a",
+    "type": "split",
+    "children": [
+      {
+        "id": "99bc255cd7332960",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db2c34a589df7290",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "خطه المشروع grpc/اخر بحث للخطه.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "روابط نصية لـ اخر بحث للخطه"
+            }
+          },
+          {
+            "id": "bac21c655abe407a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "خطه المشروع grpc/اخر بحث للخطه.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "الروابط الصادرة من اخر بحث للخطه"
+            }
+          },
+          {
+            "id": "eb4b52aed40d27a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a0d2e3d3b2c10428",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "gRPCplan/اخر بحث للخطه.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "الخطوط العريضة لـ اخر بحث للخطه"
+            }
+          },
+          {
+            "id": "6300ee2a722aafa8",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          },
+          {
+            "id": "c2de5062914d38a0",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 380.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "google-drive-sync:Push to Google Drive": false,
+      "switcher:افتح الانتقال السريع": false,
+      "graph:فتح العرض البياني": false,
+      "canvas:إنشاء لوحة بصرية جديدة": false,
+      "daily-notes:فتح ملاحظة اليوم": false,
+      "templates:إدراج قالب": false,
+      "command-palette:فتح لوحة الأوامر": false,
+      "markdown-importer:فتح مستورد Markdown": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "c2de5062914d38a0",
+  "lastOpenFiles": [
+    "gRPCplan/تلقائي من TLS/auth_interceptor.go.md",
+    "gRPCplan/Application-Level Firewall جدار حماية برمجي.md",
+    "gRPCplan/اخر بحث للخطه.md",
+    "gRPCplan/تلقائي من TLS/جدول قواعد جدار الحماية الأساسية.md",
+    "gRPCplan/تصميم جدول تسجيل الوكلاء (agents).md",
+    "gRPCplan/Registration  grpcلتسجيل جهاز جديد في المنصة.md",
+    "gRPCplan/firewall.md",
+    "gRPCplan/تلقائي من TLS/Keepalive.md",
+    "gRPCplan/تلقائي من TLS/tls.Config في.md",
+    "gRPCplan/تلقائي من TLS/بدون عنوان.md",
+    "برمجه/Go/خطه المشروع/مخطط كامل.md",
+    "`tls.Config` في `/cmd/server/main.go`.md",
+    "`tls.Config` في `/cmd/server",
+    "`tls.Config` في `/cmd",
+    "`tls.Config` في `",
+    "روابط تحتاج عمق",
+    "gRPCplan/تلقائي من TLS",
+    "gRPCplan/تصور المهام الأمنية gRPC.md",
+    "برمجه/Go/خطه المشروع/Firewall لحماية الـ API الخاص بنا من الهجمات.md",
+    "gRPCplan/مصادقة ثنائية الطبقات للوكلاء (2-Layer Agent Authentication).md",
+    "برمجه/Go/خطه المشروع/Registration لتسجيل جهاز جديد في المنصة.md",
+    "برمجه/Go/خطه المشروع/Scan للسماح للمستخدم بطلب فحص أمني لجهازه عن بعد.md",
+    "بدون عنوان.md",
+    "بدون عنوان.canvas",
+    "برمجه/Go/خطه المشروع/خدمة Guardian.md",
+    "برمجه/Go/خطه المشروع",
+    "برمجه/Go/09-مشاريع-مرجعية",
+    "برمجه/Go/08-قوالب-الكود",
+    "برمجه/Go/07-اختبارات",
+    "برمجه/Go/06-قواعد-البيانات",
+    "برمجه/Go/04-هندسة-البرمجيات/Clean-Architecture.md",
+    "برمجه/Go/02-هياكل-البيانات/الإنشاء المباشر للكائن (Struct Literal).md",
+    "فهم طبقة المعالج (Handler) في Go.md",
+    "بدون عنوان 1.canvas",
+    "مثال-معالج-المقالات.md",
+    "مثال-منطق-عمل-المقالات.md",
+    "Programming Languages/بدون عنوان.canvas",
+    "مرحبًا.md",
+    "Programming Languages/Go/أفضل الممارسات (Best Practices).canvas",
+    "بدون عنوان 1.md"
+  ]
+}
